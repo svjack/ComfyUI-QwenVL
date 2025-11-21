@@ -1,7 +1,7 @@
 {
   "hf_models": {
     "Qwen3-VL-4B-Instruct-heretic-7refusal": {
-      "repo_id": "georgehenney/Qwen3-VL-4B-Instruct-heretic-7refusal",
+      "repo_id": "svjack/Qwen3-VL-4B-Instruct-heretic-7refusal",
       "default": false,
       "quantized": false,
       "vram_requirement": {
