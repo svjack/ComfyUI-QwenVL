@@ -13,6 +13,9 @@
 #
 # Source: https://github.com/1038lab/ComfyUI-QwenVL
 
+import os
+os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
+
 import gc
 import json
 from enum import Enum
